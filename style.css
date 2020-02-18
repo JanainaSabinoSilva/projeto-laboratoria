@@ -1,0 +1,31 @@
+body {
+    background-color: yellow;
+    }
+.titulo {
+    text-align: center;
+}
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 30px;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.categorias{
+    display: inline-block;
+    width: 45%;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 30px;
+    height: 350px;
+}
+footer {
+    color: black;
+    padding-top: 100px;
+}
